@@ -1,6 +1,6 @@
 # About Me (Brace Yourself 🤪)
 
-- **Name:** [Your Name] (AKA "The Procrastinator Extraordinaire" 🤹‍♂️)
+- **Name:** Санжар (AKA "The Procrastinator Extraordinaire" 🤹‍♂️)
 - **Location:** Somewhere between existential dread and panic attacks 😱🌪️
 - **Languages:** Fluent in C++, Kazakh, and the art of existential crisis 🧠💻🇰🇿
 - **Current Projects:**
