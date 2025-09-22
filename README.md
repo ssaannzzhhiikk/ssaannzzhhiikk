@@ -75,9 +75,12 @@ I like working with databases, APIs, and DevOps tools (Docker etc.). Always look
 
 Here are some projects I’m working on or have completed:
 
-| Name | Description | Link |
-|---|---|---|
-| *To be added* | Project description here | [Repo/Live Demo](#) |
+| Name | Description | Tech Stack | Link |
+|------|-------------|------------|------|
+| 📰 Fake News Detection with Transformers | Text classification for fake news detection using transformer-based models (XLM-RoBERTa). Includes preprocessing, training, evaluation, REST API & demo frontend. | Python, PyTorch, HuggingFace, FastAPI, scikit-learn, pandas | [Repo](https://github.com/ssaannzzhhiikk/ai-fake-news) |
+| 🛒 BAOTAO — Shop + Ticketing & Ordering System | Full-featured Django app with user auth, roles, order & ticket system, admin panel, and API. | Django, DRF, PostgreSQL, HTML Templates | [Repo](https://github.com/ssaannzzhhiikk/baotao) |
+| 💬 ChatVerse — Real-Time Chat App | Real-time chat app with React, Supabase & Tailwind. Features auth, subscriptions, password reset, and secure routes. | React, TypeScript, Supabase, TailwindCSS, Vite | [Repo](https://github.com/ssaannzzhhiikk/chat-app) |
+| 🐘 Supabase + PostgreSQL Password Manager | Password manager project using Supabase and PostgreSQL with secure storage, migrations, and integration with modern web apps. | Supabase, PostgreSQL | [Repo](https://github.com/ssaannzzhhiikk/ssaannzzhhiikk) |
 
 ---
 
