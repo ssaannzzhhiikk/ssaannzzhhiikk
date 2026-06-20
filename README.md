@@ -16,7 +16,7 @@
 - 📍 Based in **Almaty, Kazakhstan**  
 - ✉️ Contact: [omarkhanovsanzh@gmail.com](mailto:omarkhanovsanzh@gmail.com)  
 - 🎓 B.Sc. in Information Systems, **KBTU (2024–2028)**  
-- 👨‍💻 Full-Stack Developer  
+- 👨‍💻 Full-Stack Developer, Mobile Android Developer, Enthusiastic  in Machine Learning  
 
 ---
 
