@@ -80,12 +80,6 @@
 <a href="https://supabase.com/" target="_blank">
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 </a>
-<a href="https://alembic.sqlalchemy.org/" target="_blank">
-  <img alt="Alembic" src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=python&logoColor=white">
-</a>
-<a href="https://docs.pydantic.dev/" target="_blank">
-  <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-ef4444?style=for-the-badge&logo=python&logoColor=white">
-</a>
 
 **ML**  
 <a href="https://pytorch.org/" target="_blank">
@@ -94,12 +88,19 @@
 <a href="https://huggingface.co/" target="_blank">
   <img alt="HuggingFace" src="https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge">
 </a>
-<a href="https://xgboost.readthedocs.io/" target="_blank">
-  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-016B90?style=for-the-badge">
+<a href="https://scikit-learn.org/" target="_blank">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 </a>
 <a href="https://mlflow.org/" target="_blank">
   <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white">
 </a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+</a>
+<a href="https://numpy.org/" target="_blank">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+</a>
+
 
 ---
 
