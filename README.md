@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=👨‍💻+Full-Stack+Developer;🎓+Information+Systems+Student;🌍+Based+in+Almaty" />
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=👨‍💻+Full-Stack+%26+Android+Developer;🎓+Information+Systems+Student;📱+EPAM+Android+Trainee+Alumnus;🌍+Based+in+Almaty+%7C+Currently+in+Germany" />
   </a>
 </p>
 
@@ -12,16 +12,38 @@
 <a href="https://t.me/ssaannzzhhiikk" target="_blank">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>  
+<a href="mailto:omarkhanovsanzh@gmail.com" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-- 📍 Based in **Almaty, Kazakhstan**  
-- ✉️ Contact: [omarkhanovsanzh@gmail.com](mailto:omarkhanovsanzh@gmail.com)  
-- 🎓 B.Sc. in Information Systems, **KBTU (2024–2028)**  
-- 👨‍💻 Full-Stack Developer, Mobile Android Developer, Enthusiastic  in Machine Learning  
+- 📍 Based in **Almaty, Kazakhstan** — currently on academic exchange at **Hochschule Furtwangen University, Germany**
+-  Contact: [omarkhanovsanzh@gmail.com](mailto:omarkhanovsanzh@gmail.com)  
+-  B.Sc. in Information Systems, **KBTU (2024–2028)**  
+-  Full-Stack Developer, **Android Developer** (EPAM Android Trainee Programme), enthusiastic in Machine Learning
+- 🇩🇪 Open to opportunities (Android / Python / Backend)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
+**Android**  
+<a href="https://kotlinlang.org/" target="_blank">
+  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+</a>
+<a href="https://developer.android.com/jetpack/compose" target="_blank">
+  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+</a>
+<a href="https://dagger.dev/hilt/" target="_blank">
+  <img alt="Hilt" src="https://img.shields.io/badge/Hilt-000000?style=for-the-badge&logo=android&logoColor=white">
+</a>
+<a href="https://developer.android.com/training/data-storage/room" target="_blank">
+  <img alt="Room" src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+</a>
+<a href="https://developer.android.com/topic/libraries/architecture/workmanager" target="_blank">
+  <img alt="WorkManager" src="https://img.shields.io/badge/WorkManager-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+</a>
+
+**Languages & Backend**  
 <a href="https://www.python.org/" target="_blank">
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </a>
@@ -65,21 +87,38 @@
   <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-ef4444?style=for-the-badge&logo=python&logoColor=white">
 </a>
 
+**ML**  
+<a href="https://pytorch.org/" target="_blank">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+</a>
+<a href="https://huggingface.co/" target="_blank">
+  <img alt="HuggingFace" src="https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge">
+</a>
+<a href="https://xgboost.readthedocs.io/" target="_blank">
+  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-016B90?style=for-the-badge">
+</a>
+<a href="https://mlflow.org/" target="_blank">
+  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white">
+</a>
+
 ---
 
-## 📋 About Me
+## About Me
 
-I’m a passionate Full-Stack Developer currently studying Information Systems at KBTU. I enjoy building web applications using Django & FastAPI on the backend, and modern frontend frameworks like Next.js & Vue.js.  
-I like working with databases, APIs, and DevOps tools (Docker etc.). Always looking to learn new technologies and collaborate on interesting projects.
+I'm a passionate Full-Stack and Android Developer currently studying Information Systems at KBTU, and on academic exchange at Hochschule Furtwangen University in Germany. I completed the EPAM Android Trainee Programme building production-style apps with Kotlin, Jetpack Compose, Hilt, and Room. On the backend I enjoy building with Django & FastAPI, and I've worked on ML projects using PyTorch, XGBoost, and HuggingFace. I like working with databases, APIs, and DevOps tools (Docker etc.). Currently looking for **Werkstudent** opportunities in Germany. Always looking to learn new technologies and collaborate on interesting projects.
 
 ---
 
-## 🔗 Projects
+## Projects
 
-Here are some projects I’m working on or have completed:
+Here are some projects I'm working on or have completed:
 
 | Name | Description | Tech Stack | Link |
 |------|-------------|------------|------|
+| 📱 DevFeed — Android News Aggregator | Developer news app (GitHub Trending + Hacker News). Two stages: manual DI/local state → full MVVM refactor with Hilt, unit/UI tests, and a signed release build. | Kotlin, Jetpack Compose, Hilt, Room, WorkManager | [Repo](https://github.com/ssaannzzhhiikk/DevFeed) |
+| 💱 Currency Converter — Android App | Clean Architecture app with login flow, token-based auth, and a modular `:currency-library`, covered by unit and UI tests. | Kotlin, MVVM, Hilt, Retrofit, MockK, Espresso | [Repo](https://github.com/ssaannzzhhiikk) |
+| ♟️ Chess Web App | Full-stack multiplayer chess platform with real-time gameplay and AI-powered post-game analysis. | FastAPI, PostgreSQL, WebSockets, JWT, OpenAI API | [Repo](https://github.com/ssaannzzhhiikk) |
+| 🔥 Burnout Detection System | Early burnout/attrition detection model on HR analytics data (F1=0.91, ROC-AUC=0.96) with SHAP explainability and MLflow tracking. | XGBoost, FastAPI, Docker, SHAP, MLflow | [Repo](https://github.com/ssaannzzhhiikk) |
 | 📰 Fake News Detection with Transformers | Text classification for fake news detection using transformer-based models (XLM-RoBERTa). Includes preprocessing, training, evaluation, REST API & demo frontend. | Python, PyTorch, HuggingFace, FastAPI, scikit-learn, pandas | [Repo](https://github.com/ssaannzzhhiikk/ai-fake-news) |
 | 🛒 BAOTAO — Shop + Ticketing & Ordering System | Full-featured Django app with user auth, roles, order & ticket system, admin panel, and API. | Django, DRF, PostgreSQL, HTML Templates | [Repo](https://github.com/ssaannzzhhiikk/baotao) |
 | 💬 ChatVerse — Real-Time Chat App | Real-time chat app with React, Supabase & Tailwind. Features auth, subscriptions, password reset, and secure routes. | React, TypeScript, Supabase, TailwindCSS, Vite | [Repo](https://github.com/ssaannzzhhiikk/chat-app) |
