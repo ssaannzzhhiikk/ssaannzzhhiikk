@@ -65,9 +65,6 @@
 <a href="https://nextjs.org/" target="_blank">
   <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 </a>
-<a href="https://vuejs.org/" target="_blank">
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-</a>
 <a href="https://www.docker.com/" target="_blank">
   <img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </a>
