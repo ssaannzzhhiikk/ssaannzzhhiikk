@@ -16,7 +16,7 @@
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-- 📍 Based in **Almaty, Kazakhstan** — currently on academic exchange at **Hochschule Furtwangen University, Germany**
+- 📍 Based in **Almaty, Kazakhstan**
 -  Contact: [omarkhanovsanzh@gmail.com](mailto:omarkhanovsanzh@gmail.com)  
 -  B.Sc. in Information Systems, **KBTU (2024–2028)**  
 -  Full-Stack Developer, **Android Developer** (EPAM Android Trainee Programme), enthusiastic in Machine Learning
