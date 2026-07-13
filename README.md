@@ -20,7 +20,7 @@
 -  Contact: [omarkhanovsanzh@gmail.com](mailto:omarkhanovsanzh@gmail.com)  
 -  B.Sc. in Information Systems, **KBTU (2024–2028)**  
 -  Full-Stack Developer, **Android Developer** (EPAM Android Trainee Programme), enthusiastic in Machine Learning
-- 🇩🇪 Open to opportunities (Android / Python / Backend)
+-  Open to opportunities (Android / Python / Backend)
 
 ---
 
